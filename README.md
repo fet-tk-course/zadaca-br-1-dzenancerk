@@ -11,6 +11,9 @@ GitHub username: dzenancerk
 
 ---
 
+## Uvod
+TK sam usmjerenje. Dolazim iz Zivinica. Cetvrta godina studija sam.
+
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:
